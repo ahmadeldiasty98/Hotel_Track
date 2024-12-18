@@ -593,3 +593,4 @@ H:\Code1\Hotel_Track\obj\Debug\net8.0\refint\Hotel_Track.dll
 H:\Code1\Hotel_Track\obj\Debug\net8.0\Hotel_Track.pdb
 H:\Code1\Hotel_Track\obj\Debug\net8.0\Hotel_Track.genruntimeconfig.cache
 H:\Code1\Hotel_Track\obj\Debug\net8.0\ref\Hotel_Track.dll
+H:\Code1\Hotel_Track\obj\Debug\net8.0\Hotel_Track.sourcelink.json

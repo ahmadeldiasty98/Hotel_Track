@@ -33,3 +33,4 @@ H:\Code1\Utiltiy\obj\Debug\net8.0\refint\Utiltiy.dll
 H:\Code1\Utiltiy\obj\Debug\net8.0\Utiltiy.pdb
 H:\Code1\Utiltiy\obj\Debug\net8.0\Utiltiy.genruntimeconfig.cache
 H:\Code1\Utiltiy\obj\Debug\net8.0\ref\Utiltiy.dll
+H:\Code1\Utiltiy\obj\Debug\net8.0\Utiltiy.sourcelink.json

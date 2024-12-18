@@ -27,3 +27,4 @@ H:\Code1\Model\obj\Debug\net8.0\refint\Model.dll
 H:\Code1\Model\obj\Debug\net8.0\Model.pdb
 H:\Code1\Model\obj\Debug\net8.0\Model.genruntimeconfig.cache
 H:\Code1\Model\obj\Debug\net8.0\ref\Model.dll
+H:\Code1\Model\obj\Debug\net8.0\Model.sourcelink.json

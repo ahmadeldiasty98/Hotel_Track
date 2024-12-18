@@ -37,3 +37,4 @@ H:\Code1\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 H:\Code1\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 H:\Code1\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
 H:\Code1\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+H:\Code1\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
