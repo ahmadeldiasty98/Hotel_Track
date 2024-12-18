@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Car>
+
+@{
+    ViewData["Title"] = "Car List";
+}
+
+<div class="container">
+    <h2 class="my-4">Car List</h2>
+    <!-- Button to open Create Car modal or navigate to Create Car page -->
+
+    <div class="d-flex justify-content-between mb-3">
+        <!-- Left-aligned Button -->
+        <a href="@Url.Action("Create", "Car")" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Create New Car
+        </a>
+
+        <!-- Right-aligned Button -->
+        <a href="@Url.Action("Index", "Car")" class="btn btn-success">
+            <i class="bi bi-house-door"></i> Car Home Page
+        </a>
+    </div>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Car Model</th>
+                <th>License Plate</th>
+                <th>Capacity</th>
+                <th>Rent Price/Day</th>
+                <th>Availability</th>
+                <th>Location</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model)
+            {
+                <tr>
+                    <td>@car.CarModel</td>
+                    <td>@car.LicensePlate</td>
+                    <td>@car.Capacity</td>
+                    <td>@car.RentPricePerDay</td>
+                    <td>
+                        @if (car.IsAvailable)
+                        {
+                            <span class="badge bg-success">Available</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">Not Available</span>
+                        }
+                    </td>
+                    <td>@car.Location</td>
+                    <td>
+                        <!-- Edit and Delete Buttons -->
+                        <a href="@Url.Action("Edit", "Car")" class="btn btn-warning btn-sm">Edit</a>
+                        <a href="@Url.Action("Delete")" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this car?');">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

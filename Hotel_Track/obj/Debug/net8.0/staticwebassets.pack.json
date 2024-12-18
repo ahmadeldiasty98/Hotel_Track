@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Hotel_Track.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hotel_Track.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel1.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel1.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel10.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel10.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel11.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel11.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel12.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel12.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel13.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel13.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel14.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel14.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel15.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel15.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel16.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel16.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel17.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel17.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel18.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel18.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel19.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel19.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel2.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel2.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel20.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel20.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel21.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel21.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel22.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel22.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel23.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel23.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel24.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel24.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel25.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel25.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel3.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel3.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel4.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel4.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel5.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel5.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel6.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel6.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel7.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel7.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel8.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel8.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Hotels\\Hotel9.jpg",
+      "PackagePath": "staticwebassets\\images\\Hotels\\Hotel9.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room1.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room1.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room10.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room10.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room11.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room11.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room12.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room12.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room13.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room13.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room14.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room14.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room15.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room15.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room16.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room16.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room17 .jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room17 .jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room18.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room18.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room19.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room19.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room2.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room2.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room20.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room20.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room21.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room21.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room22.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room22.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room23.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room23.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room24.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room24.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room25.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room25.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room26.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room26.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room27.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room27.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room28.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room28.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room29.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room29.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room3.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room3.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room30.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room30.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room31.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room31.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room32.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room32.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room33.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room33.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room34.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room34.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room35.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room35.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room36.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room36.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room37.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room37.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room38.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room38.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room39.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room39.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room4.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room4.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room40.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room40.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room41.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room41.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room42.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room42.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room43.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room43.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room44.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room44.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room45.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room45.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room46.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room46.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room47.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room47.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room48.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room48.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room49.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room49.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room5.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room5.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room50.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room50.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room6.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room6.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room7.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room7.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room8.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room8.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\images\\Rooms\\Room9.jpg",
+      "PackagePath": "staticwebassets\\images\\Rooms\\Room9.jpg"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Code1\\Hotel_Track\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hotel_Track.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hotel_Track.props",
+      "PackagePath": "build\\Hotel_Track.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel_Track.props",
+      "PackagePath": "buildMultiTargeting\\Hotel_Track.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hotel_Track.props",
+      "PackagePath": "buildTransitive\\Hotel_Track.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
